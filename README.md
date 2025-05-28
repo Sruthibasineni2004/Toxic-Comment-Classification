@@ -1,7 +1,7 @@
 # Toxic Comment Classification with Gradio 
 🧠💬
 This project leverages Natural Language Processing (NLP) and Deep Learning (BiLSTM) to detect toxic comments in online platforms. It uses a multi-label classification approach to identify six categories of toxicity and deploys an interactive user interface using Gradio.
-
+## Data Link Details: https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge?select=train.csv
 # 🔍 Features
 Detects toxicity across 6 categories:
 
